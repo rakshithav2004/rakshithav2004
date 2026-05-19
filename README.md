@@ -93,6 +93,15 @@ Data analysis of Indian Premier League (IPL) matches to uncover team performance
 
 ---
 
+## 👨‍💻 Engineering Philosophy
+
+**principles:**
+  - "Build it right, not just fast"
+  - "Clean code is a love letter to your future self"
+  - "Every API you ship is a contract — honour it"
+
+---
+
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshitha-bai-v-043542258)
