@@ -49,6 +49,19 @@ I enjoy building clean, scalable backend systems and writing automated tests tha
 
 ---
 
+## current focus
+
+building:
+  - Production-grade REST APIs using Java & Spring Boot
+  - Scalable microservices with MongoDB and Redis caching
+  - Secure authentication systems with JWT & Spring Security
+learning:
+  - System Design & Scalable Architecture
+  - AWS Cloud fundamentals
+  - Advanced Java & Design Patterns
+
+---
+
 ## 💼 Featured Projects
 
 ### 🎫 [Customer Support Ticketing System](https://github.com/rakshithav2004/Customer-Support-Ticketing-System)
