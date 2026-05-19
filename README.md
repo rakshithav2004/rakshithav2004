@@ -51,11 +51,11 @@ I enjoy building clean, scalable backend systems and writing automated tests tha
 
 ## Current focus
 
->building:
+**Building:**
   - Production-grade REST APIs using Java & Spring Boot
   - Scalable microservices with MongoDB and Redis caching
   - Secure authentication systems with JWT & Spring Security
->learning:
+**Learning:**
   - System Design & Scalable Architecture
   - AWS Cloud fundamentals
   - Advanced Java & Design Patterns
