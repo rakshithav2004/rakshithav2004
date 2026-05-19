@@ -72,6 +72,13 @@ NLP-based topic modelling system to extract hidden themes from 10K+ Twitter reco
 
 ---
 
+### 🏏 [IPL Data Analysis](https://github.com/rakshithav2004/ipl-data-analysis)
+> Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
+
+Data analysis of Indian Premier League (IPL) matches to uncover team performance trends, player statistics, and match outcome patterns. Key insights include top batsmen by runs, team win/loss ratios across seasons, and factors influencing match results such as toss decisions and batting order.
+
+---
+
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshitha-bai-v-043542258)
