@@ -49,6 +49,26 @@ I enjoy building clean, scalable backend systems and writing automated tests tha
 
 ---
 
+## 💼 Experience
+
+### Software Engineering Trainee | Vonage (Part of Ericsson)
+📍 Bangalore, India  
+📅 Jan 2025 – Present
+
+- Developed and enhanced backend REST APIs using Java 20 and Spring Boot, implementing validation frameworks and business logic improvements that reduced API failures by **10–15%**.
+
+- Engineered cross-currency and network validation logic for telecom billing workflows, improving data integrity and preventing critical cost-processing errors across high-volume transactions.
+
+- Resolved **5+ production issues** across cost synchronization, Partner CDR processing, and RCS upload workflows through root-cause analysis, debugging, and backend code enhancements.
+
+- Standardized error handling by implementing a structured error-code framework across multiple API modules, improving troubleshooting efficiency and API maintainability.
+
+- Architected and parallelized API regression testing using PyTest, reducing execution time by **75%** (**2 hours → 30 minutes**) while increasing coverage across **50+ edge-case scenarios**.
+
+**Tech Stack:** Java 20, Spring Boot, REST APIs, PyTest, Git, Maven, Telecom Billing Systems
+
+---
+
 ## Current focus
 
 **Building:**
