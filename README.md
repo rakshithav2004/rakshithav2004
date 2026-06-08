@@ -53,7 +53,7 @@ I enjoy building clean, scalable backend systems and writing automated tests tha
 
 ### Software Engineering Trainee | Vonage (Part of Ericsson)
 📍 Bangalore, India  
-📅 Jan 2025 – Present
+📅 Jun 2025 – May 2026
 
 - Developed and enhanced backend REST APIs using Java 20 and Spring Boot, implementing validation frameworks and business logic improvements that reduced API failures by **10–15%**.
 
