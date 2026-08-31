@@ -63,7 +63,7 @@ I enjoy building clean, scalable backend systems and writing automated tests tha
 
 - Developed and enhanced backend REST APIs using Java 20 and Spring Boot, implementing validation frameworks and business logic improvements that reduced API failures by **10–15%**.
 - Engineered cross-currency and network validation logic for telecom billing workflows, improving data integrity and preventing critical cost-processing errors across high-volume transactions.
-- Resolved **5+ production issues** across cost synchronization, Partner CDR processing, and RCS upload workflows through root-cause analysis, debugging, and backend code enhancements.
+- Resolved **5+ production issues** across cost synchronization, Partner CDR processing, and RCS upload workflows, while standardizing structured error handling across API modules to reduce debugging time by **15%**.
 - Architected and parallelized API regression testing using PyTest, reducing execution time by **75%** (**2 hours → 30 minutes**) while increasing coverage across **50+ edge-case scenarios**.
 
 **Tech Stack:** Java 20, Spring Boot, REST APIs, PyTest, Git, Maven, Telecom Billing Systems
@@ -79,9 +79,20 @@ I enjoy building clean, scalable backend systems and writing automated tests tha
 Distributed e-commerce backend consisting of dedicated Product and Order services, with Eureka-based service discovery and a centralized API Gateway for request routing.
 
 - Implemented **15+ REST APIs** for product management, order creation, status transitions, and inventory operations.
-- Added **pagination and multi-criteria filtering** for product retrieval using MongoDB.
+- Added pagination and filtering by **category, keyword, price range, and stock availability** using MongoDB.
 - Integrated **OpenFeign** for inter-service communication and **Resilience4j circuit breakers** for fault tolerance.
 - Added centralized exception handling, validation, Swagger/OpenAPI documentation, JUnit/Mockito tests, and **GitHub Actions CI** for automated builds and tests.
+
+---
+
+### ⚙️ [Generic Data Ingestion Service](https://github.com/rakshithav2004/generic-data-ingestion-service)
+
+**Java · Spring Boot · REST APIs · Pluggable Architecture**
+
+A configurable Spring Boot service that ingests data from multiple external REST APIs using pluggable authentication and pagination strategies, and persists the data to a database.
+
+- Designed a config-driven ingestion pipeline supporting multiple external API sources without code changes per integration.
+- Built pluggable authentication and pagination strategy interfaces, enabling easy extension to new data sources.
 
 ---
 
@@ -161,4 +172,4 @@ Data analysis project exploring IPL match, team, and player performance trends.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshitha-bai-v-043542258)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshithabaiv@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakshithav2004)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rakshithabaiv/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rakshithabaiv/)                                                                                      
