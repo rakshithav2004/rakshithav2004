@@ -186,19 +186,6 @@ Data analysis project exploring IPL match, team, and player performance trends.
 
 ---
 
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshithav2004&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithav2004&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rakshithav2004&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 💡 Engineering Philosophy
 
 > **Build it right, not just fast.**
