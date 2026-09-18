@@ -37,6 +37,7 @@ I enjoy designing **clean, scalable backend systems**, solving engineering probl
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 ![OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge)
 ![Resilience4j](https://img.shields.io/badge/Resilience4j-6DB33F?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases
 
