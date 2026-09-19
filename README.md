@@ -109,6 +109,26 @@ A configurable backend service for ingesting data from multiple external REST AP
 * Designed the system to minimize code changes when adding new integrations.
 
 ---
+## 🏠 Housing Price Prediction API
+
+**Python · FastAPI · Scikit-learn · Random Forest · Pandas · NumPy · Pydantic · Joblib · Swagger**
+
+A machine learning-powered REST API for predicting housing prices, supporting both **single-house predictions** and **CSV-based batch predictions with downloadable results**.
+
+🔗 **[View Project →](https://github.com/rakshithav2004/housing-price-prediction-api)**
+
+**Highlights**
+
+* Built a **FastAPI REST API** for real-time housing price prediction.
+* Trained a **Random Forest Regression** model using the California Housing dataset.
+* Implemented single-house prediction with **Pydantic request validation**.
+* Added **CSV upload and batch prediction** for processing multiple housing records.
+* Generated downloadable CSV results containing the predicted prices.
+* Added CSV validation to ensure required input features are present.
+* Used **Joblib** to persist and load the trained machine learning model.
+* Added interactive **Swagger/OpenAPI documentation** for API testing.
+
+---
 
 ## 🎫 Customer Support Ticketing System
 
