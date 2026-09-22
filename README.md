@@ -142,6 +142,7 @@ A secure backend ticketing platform with role-based access control and ticket li
 * Implemented JWT authentication and authorization with **USER and ADMIN roles**.
 * Containerized the application using **Docker**.
 * Documented REST APIs using Swagger/OpenAPI.
+  
 ---
 
 ## 💼 Job Application Tracker
