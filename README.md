@@ -3,7 +3,7 @@
 ### Backend Developer | Java & Spring Boot | Microservices
 
 🎓 **BE Computer Science & Data Science** — AMC Engineering College
-💼 **Software Engineering Trainee @ Vonage (Part of Ericsson)**
+💼 **Ex-Software Engineering Trainee @ Vonage (Part of Ericsson)**
 📍 Bengaluru, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rakshitha-bai-v-043542258)
