@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Rakshitha Bai V
 
 ### Backend Developer | Java & Spring Boot | Microservices
